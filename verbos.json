@@ -1,0 +1,140 @@
+[
+    {
+        "root_verb": "go",
+        "3s_present": "goes",
+        "past_simple": "went",
+        "present_participle": "going",
+        "past_participle": "gone",
+        "verbo_base": "ir",
+        "presente": {
+            "1s": "vou",
+            "2s": "vai",
+            "3s": "vai",
+            "1p": "vamos",
+            "2p": "vão",
+            "3p": "vão"
+        },
+        "passado": {
+            "1s": "fui",
+            "2s": "foi",
+            "3s": "foi",
+            "1p": "fomos",
+            "2p": "foram",
+            "3p": "foram"
+        },
+        "gerundio": "indo",
+        "participio_passado": [
+            "ido"
+        ],
+        "futuro_subjuntivo": {
+            "1s": "for",
+            "2s": "for",
+            "3s": "for",
+            "1p": "formos",
+            "2p": "forem",
+            "3p": "forem"
+        },
+        "pret_subjun_imperf": {
+            "1s": "fosse",
+            "2s": "fosse",
+            "3s": "fosse",
+            "1p": "fossemos",
+            "2p": "fossem",
+            "3p": "fossem"
+        }
+    },
+    {
+        "root_verb": "create",
+        "3s_present": "creates",
+        "past_simple": "created",
+        "present_participle": "creating",
+        "past_participle": "created",
+        "verbo_base": "criar",
+        "presente": {
+            "1s": "crio",
+            "2s": "cria",
+            "3s": "cria",
+            "1p": "criamos",
+            "2p": "criam",
+            "3p": "criam"
+        },
+        "passado": {
+            "1s": "criei",
+            "2s": "criou",
+            "3s": "criou",
+            "1p": "criamos",
+            "2p": "criaram",
+            "3p": "criaram"
+        },
+        "gerundio": "criando",
+        "participio_passado": [
+            "criado",
+            "criada",
+            "criados",
+            "criadas"
+        ],
+        "futuro_subjuntivo": {
+            "1s": "criar",
+            "2s": "criar",
+            "3s": "criar",
+            "1p": "criarmos",
+            "2p": "criarem",
+            "3p": "criarem"
+        },
+        "pret_subjun_imperf": {
+            "1s": "criasse",
+            "2s": "criasse",
+            "3s": "criasse",
+            "1p": "criassemos",
+            "2p": "criassem",
+            "3p": "criassem"
+        }
+    },
+    {
+        "root_verb": "sell",
+        "3s_present": "sells",
+        "past_simple": "sold",
+        "present_participle": "selling",
+        "past_participle": "sold",
+        "verbo_base": "vender",
+        "presente": {
+            "1s": "vendo",
+            "2s": "vende",
+            "3s": "vende",
+            "1p": "vendemos",
+            "2p": "vendem",
+            "3p": "vendem"
+        },
+        "passado": {
+            "1s": "vendi",
+            "2s": "vendeu",
+            "3s": "vendeu",
+            "1p": "vendemos",
+            "2p": "venderam",
+            "3p": "venderam"
+        },
+        "gerundio": "vendendo",
+        "participio_passado": [
+            "vendido",
+            "vendida",
+            "vendidos",
+            "vendidas"
+        ],
+        "futuro_subjuntivo": {
+            "1s": "vender",
+            "2s": "vender",
+            "3s": "vender",
+            "1p": "vendermos",
+            "2p": "venderem",
+            "3p": "venderem"
+        },
+        "pret_subjun_imperf": {
+            "1s": "vendesse",
+            "2s": "vendesse",
+            "3s": "vendesse",
+            "1p": "vendêssemos",
+            "2p": "vendessem",
+            "3p": "vendessem"
+        }
+    }
+]
